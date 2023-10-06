@@ -4,7 +4,7 @@
 
 ### Check it out
 
-👉👉👉 [hackthenorth.com](https://hackthenorth.com) 👈👈👈
+👉👉👉 [2023.hackthenorth.com](https://2023.hackthenorth.com/) 👈👈👈
 
 ### Running locally
 
