@@ -1,0 +1,18 @@
+name: Verify Issue Linked to PR
+
+on:
+  pull_request:
+    types: [opened, reopened]
+  check_run:
+
+jobs:
+  verify_linked_issue:
+    runs-on: ubuntu-latest
+    name: Ensure Pull Request has a linked issue.
+    steps:
+      - name: Verify Linked Issue
+        uses: hattan/verify-linked-issue-action@v1.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.FRONTEND_REPO_ACTIONS_TOKEN }}
+        with:
+          message: 'heLLO?? :anger: :anger: you!! have u seen the time? :point_right::arrow_right::point_right: its BEEP BEEP TIME TO LINK AN ISSUE :angry: either link an issue or mention it using #<issue_id> :-1:'

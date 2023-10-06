@@ -1,0 +1,46 @@
+export const title = "Terms and Conditions";
+export const content = `
+
+You acknowledge that your participation in any component of Hack the North 2020++, including but not limited to workshops, activities, digital platforms and communities (such as Hopin and Discord), project submission and judging, and any component of Gear Up: Presented by Hack the North (collectively, the “Event”) constitutes your full and unconditional agreement to and acceptance of these Terms and Conditions. The term “you” refers to you, the “Participant”.
+
+If you are under the age of 13, you must obtain consent from your parent or legal guardian to participate in the Event, and your parent or guardian is required to agree to these Terms and Conditions by having your parent or guardian checking the checkbox labelled “I agree to the terms and conditions stated above”. You acknowledge that, even as a minor, you must read and understand the contents of these Terms and Conditions, and that you have the capacity and intention to be bound by the terms of these Terms and Conditions.
+
+### Ownership
+You will own any developments made by you during the Event, and all rights, title, and interest in those developments, including the intellectual property rights therein, shall belong to you. However, you acknowledge that during the course of the Event, you may obtain access to products, developments, information and other materials belonging to other participants of the Event, the sponsors of the Event (“Sponsors”), and/or other third parties (“Third Party Materials”), and that nothing in these Terms and Conditions is deemed to transfer any ownership, right, title or interest in such Third Party Materials to you. Your only rights to the Third Party Materials shall be those expressly granted to you by the owner(s) of the Third Party Materials. Specifically, any APIs or other software provided to you by Sponsors are subject to the subscription terms and software licenses associated with such APIs or other software.
+
+### Media Release
+You acknowledge that the organizers of the Event (“Organizers”), Sponsors, the University of Waterloo, and Techyon (collectively, the “Releasees”), will be recording the Event on video, photographs, audio recording and other media, and therefore, agree that:
+
+* The Releasees have the unrestricted right to use your likeness, image, voice, opinions, and appearance, and also any images of your projects, developments, materials and belongings made at or brought to the Event, captured through video, photographs and/or other media during the Event for the express purpose of creating promotional material (the “Images”), for the purposes of use in websites, promotional materials, publications and/or other media of any of the Releasees, whether in print or electronically (the “Materials”). The foregoing right includes permission to copyright, use, re-use, publish, and republish Images in which you may be included, intact or in part, composite or distorted in character or form, without restriction as to changes or transformations, in conjunction with your own or a fictitious name, reproduction in color or otherwise, made through any and all media now or hereafter known;
+* The Releasees shall solely own the Materials in which you or your Images, in whole or in part, may appear, including copyright interests, and you have no ownership rights therein;
+* You give all clearances, copyright and otherwise, for use of your Images, and waive any moral rights that you may have in the Materials in which you or your Images may appear. The rights granted to the Releasees herein are perpetual and worldwide. For greater certainty, your Images may continue to be used after the completion of the Event;
+* You relinquish any right that you may have to examine or approve the Materials in which you or your Images may appear or the use to which they may be applied; and
+* You hereby release, discharge and agree to save harmless each and all of the Releasees from any liability by virtue of any blurring, distortion, alteration, optical illusion, or use in composite form of the Images whether intentional or otherwise, that may occur or be produced in the recording of the Images or in any subsequent processing thereof, as well as any publication thereof, including without limitation any claims for libel or invasion of privacy.
+
+### Confidential Information
+You acknowledge that the Event is intended to be an event where ideas are shared freely, and therefore acknowledge that any information that you share with other participants of the Event, the Sponsors and/or other third parties during the Event is solely at your discretion and risk. If you wish to protect your information, it is solely your responsibility to implement confidentiality and security measures with respect to the persons to whom you are disclosing your information. None of the Releasees shall have any responsibility under these Terms and Conditions or by virtue of their participation in the Event with respect to your information.
+
+### Information Sharing
+You agree that the Organizers may share your registration details, LinkedIn/Github profiles, details of your hackathon project, and other information obtained from you in the course of, or relating to, the Event with the Sponsors, and acknowledge that such Sponsors may contact you during and/or after the Event. By agreeing to these Terms and Conditions and/or by participating in the Event, you are providing your express consent to communications by the Organizers and Sponsors (including email communications, both marketing and informational) respecting the products and services of the Organizers and/or Sponsors, and future events.
+
+### Submissions
+All project submissions and presentations must adhere to the Hack the North 2020++ Submission and Judging Rules, the full text of which will be released at a later date before the Event. Please note that submitting a project or presentation is not necessary for participating in the Event. The following terms are solely intended as a sample of the submission and judging rules. They are not exhaustive and are subject to change, and should be considered void once the Hack the North 2020++ Submission and Judging Rules are released.
+
+* You may not begin working on your project before the specified hacking time for the event.
+* Plagiarism is not acceptable and teams with plagiarized work will be disqualified.
+* Project submissions must include all design assets and source code created at the Event.
+* Projects made for Hack the North 2020++ may not be resubmitted to other hackathons.
+* Teams may have up to four members. All members must be accepted and registered participants of Hack the North 2020++. An individual may not be a member of more than one team.
+* All projects must also adhere to the Hack the North Code of Conduct.
+
+You acknowledge that if you provide the Organizers with false or misleading information (such as your identity or status as a student), or otherwise contravene the rules and obligations set out in this document, you forfeit your right to participate in the Event and/or obtain any prizes from the Event. You agree that in such a case, the Organizers may pursue any remedy in law or equity to reclaim any prize or recover any damages occurring as a result of your contravention or misrepresentation.
+
+Any Organizer of the Event reserves the right to individually, at their discretion and without limitation, disqualify any participant(s), team(s), or submitted project(s) for any reason, including, without limitation, any real or perceived violation of these Terms and Conditions, the Hack the North 2020++ Submission and Judging Rules, the Hack the North Code of Conduct, the MLH Code of Conduct, or laws in any applicable jurisdiction.
+
+### General
+Any Organizer of the Event reserves the right to individually, at their discretion and without limitation, remove any participant(s) from the Event or from any digital platform(s) associated with the Event (including but not limited to Hopin and Discord), with immediate effect, for any reason, including, without limitation, any real or perceived violation of these Terms and Conditions, the Hack the North Code of Conduct, any other applicable Codes of Conduct, or laws in any applicable jurisdiction.
+
+Organizers reserve the right, in their sole discretion, to cancel, modify or suspend the Event in whole or in part, in the event of fraud, technical, or other difficulties or if the integrity of the Event is compromised, without liability to the participants. In the event that the Organizers fail to enforce any term of these Terms and Conditions, this shall not constitute a waiver of that provision.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE RELEASEES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES (INCLUDING LOSS OF USE, DATA, BUSINESS OR PROFITS) ARISING OUT OF OR IN CONNECTION WITH YOUR PARTICIPATION IN THE EVENT, WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, AND WHETHER OR NOT THE RELEASEES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE.
+`;

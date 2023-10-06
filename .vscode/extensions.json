@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "jpoissonnier.vscode-styled-components",
+    "lightyen.tailwindcss-intellisense-twin",
+    "wix.vscode-import-cost"
+  ]
+}
