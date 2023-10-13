@@ -1,6 +1,6 @@
 # Hack the North website
 
-[![Build status](https://badge.buildkite.com/e0b3634fe73c0173056e76fc7c7c22626524d5811c699e1c1f.svg?branch=release)](https://buildkite.com/hack-the-north/hack-the-north-website) [![Netlify Status](https://api.netlify.com/api/v1/badges/f47627a9-5c63-49d2-a3c2-03399ef48964/deploy-status)](https://app.netlify.com/sites/hackthenorth/deploys)
+[![Build status](https://badge.buildkite.com/e0b3634fe73c0173056e76fc7c7c22626524d5811c699e1c1f.svg?branch=release)](https://buildkite.com/hack-the-north/hack-the-north-website) [![Netlify Status](https://api.netlify.com/api/v1/badges/c6c611b5-dcda-4bbd-a579-258a8d568a70/deploy-status)](https://app.netlify.com/sites/2023-hackthenorth-com/deploys)
 
 ### Check it out
 
